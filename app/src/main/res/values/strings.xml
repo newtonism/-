@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">일상도자기</string>
+    <string name="hero_badge">징더전 · 더화 · 롱취안 공방 직송</string>
+    <string name="hero_title">비싸지 않아 더 손이 가는\n매일의 중국 도자기</string>
+    <string name="hero_subtitle">개당 2,900원부터 · 3개 이상 골라담으면 15% 자동 할인</string>
+    <string name="safety_guarantee">3중 에어캡 안심포장 · 파손 시 100% 무료 재발송</string>
+    <string name="tab_home">도자기 장터</string>
+    <string name="tab_set_builder">식탁 세트맞춤</string>
+    <string name="tab_cart">장바구니</string>
+    <string name="tab_mypage">찜·주문내역</string>
+    <string name="search_hint">밥공기, 청화백자, 면기, 다기 검색...</string>
+    <string name="empty_cart_title">장바구니가 비어 있어요</string>
+    <string name="empty_cart_subtitle">2,900원 수저받침부터 든든한 면기까지 부담 없이 담아보세요.</string>
+    <string name="empty_wishlist_title">아직 찜한 도자기가 없어요</string>
+    <string name="empty_wishlist_subtitle">마음에 드는 그릇의 하트 아이콘을 눌러 나만의 식탁 위시리스트를 만들어보세요.</string>
+    <string name="checkout_button">간편 주문하기</string>
+</resources>
